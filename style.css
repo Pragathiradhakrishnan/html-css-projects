@@ -1,0 +1,69 @@
+body{
+    height: 800px;
+    width: 800px;
+    margin: 100px auto;
+    border-color: black;
+    border: 1px solid;
+    
+}
+.col{
+    align-items: center;
+    height: 100%;
+    width: 100px;
+    background-color: rgb(218, 211, 197);
+    border-color: black;
+    float: left;   
+}
+.row{
+    
+    background-color: rgb(200, 159, 117);
+    height: 100px;
+    width: 800px;
+    font-size: 80px;
+    text-align: center;
+}
+.black{
+    background-color: rgb(128, 126, 118);
+    font-size: 80px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
