@@ -23,6 +23,8 @@ A simple chessboard UI built using HTML and CSS.
 - Rebuild using CSS Grid
 - Make it responsive## 🍔 Blog Store Website
 
+  Blog-style homepage
+
 A simple blog-style homepage created using HTML and CSS.
 
 -🔹 Features
