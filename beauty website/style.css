@@ -1,0 +1,188 @@
+
+    
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.img{
+    width: 100%;
+}
+.img>img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    filter:blur(10px)  brightness(70%) ;
+    position: relative;
+    z-index: 1;
+    
+}
+    
+.daisy{
+    color: white;
+    text-shadow: 2px 2px 3px pink;
+}
+.fashion{
+    margin-left: 30%;
+}
+
+.text>h1{
+    
+    font-family: Tangerine;
+    letter-spacing: 10px;
+    font-size: 200px;
+    text-shadow: 5px 2px 5px pink;
+    margin: 0;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+
+    color: black;
+    animation-name: glow;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+
+.text>h2{
+    position: absolute;
+    top: 75%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    z-index: 2;
+    color: rgb(243, 243, 171);
+    font-size: 50px;
+    font-family: Yesteryear;  
+}
+.text>p{
+    width: 900px;
+}
+.text>.p1{
+    
+    position: absolute;
+    top: 650px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    text-shadow: 2px 2px 5px black;
+    color: rgba(255, 192, 203, 0.584);
+    font-size: 45px;
+    font-family: Pacifico;
+   
+}
+.text>.p2{
+    position: absolute;
+    top: 800px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    text-shadow: 2px 2px 5px black;
+    color: rgba(255, 192, 203, 0.584);
+    font-size: 45px;
+    font-family: Pacifico;
+}
+
+.abpro>.abtit{
+    position: absolute;
+    top: 1150px;
+    left: 30%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:#f2a277;
+    text-shadow: 2px 2px 5px black;
+    font-size: 45px;
+}
+.abpro>.abtcont{
+    width: 1000px;
+    text-indent: 80px;
+    position: absolute;
+    top: 1300px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:white;
+    text-shadow: 3px 3px 8px black;
+    font-size: 30px;
+}
+
+.choose>#whyus{
+    width: 1000px;
+    text-indent: 80px;
+    position: absolute;
+    top: 1450px;
+    left: 44%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:#f2a277;
+    text-shadow: 2px 2px 5px black;
+    font-size: 45px;
+}
+.choose>#l{
+    width: 1000px;
+    text-indent: 80px;
+    position: absolute;
+    top: 1600px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:white;
+    text-shadow: 3px 3px 8px black;
+    font-size: 30px;
+}
+#trust{
+    position: absolute;
+    top: 1800px;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:#f2a277;
+    text-shadow: 2px 2px 5px black;
+    font-size: 45px;
+}
+a{
+    position: absolute;
+    top: 1950px;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:rgb(0, 170, 255);
+    text-shadow: 2px 2px 5px black;
+    font-size: 30px; 
+}
+.contact>h2{
+    position: absolute;
+    top: 2000px;
+    left: 27%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:#f2a277;
+    text-shadow: 2px 2px 5px black;
+    font-size: 45px;
+}
+.contact>p{
+    text-indent: 50px;
+    position: absolute;
+    top: 2090px;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+    color:white;
+    text-shadow: 3px 3px 8px black;
+    font-size: 30px;   
+}
+.contact>form{
+    text-indent: 50px;
+    position: absolute;
+    top: 2200px;
+    left: 37%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+}
+
+
+
+
